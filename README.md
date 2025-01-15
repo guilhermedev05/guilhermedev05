@@ -1,5 +1,5 @@
 # Guilherme Santana
-<img align="right" src="https://i.imgur.com/AMJLKGz.png" height="350"></img>
+<img align="right" src="https://i.imgur.com/PeBmI7D.png" height="350"></img>
 <p align="justify">
     Sou desenvolvedor web em busca de um estágio na área. Atualmente estou cursando análise e desenvolvimento de sistemas e estou focado em aprender mais sobre desenvolvimento full stack. Gosto de resolver problemas e trabalhar em equipe. 🚀
 </p>
