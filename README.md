@@ -8,7 +8,7 @@
 ### Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=3E79FF)](mailto:guihlhermesxavier@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3E79FF)](https://www.linkedin.com/in/guilherme-santana-dev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=gmail&logoColor=3E79FF)](https://www.linkedin.com/in/guilhermedev05/)
 
 ### Habilidades
 
